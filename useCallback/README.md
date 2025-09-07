@@ -1,5 +1,5 @@
 ## Article
-(Place your Medium link here)
+https://medium.com/@kardi.ib/mastering-react-part-2-usecallback-what-why-when-and-how-with-practical-examples-c914a6e65708
 
 ## Sample Code
 See: [./sample-code](./sample-code)
